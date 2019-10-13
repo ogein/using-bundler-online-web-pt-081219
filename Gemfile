@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-group: :test do
+group :test do
   gem 'rspec'
 end
 gem 'hashie'
